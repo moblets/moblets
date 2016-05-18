@@ -1,0 +1,35 @@
+{
+  "name": "moblets",
+  "version": "0.0.1",
+  "description": "Moblets creation CLI",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "moblets": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moblets/moblets.git"
+  },
+  "keywords": [
+    "moblets",
+    "moblet",
+    "cli",
+    "app",
+    "fabapp",
+    "creation",
+    "development"
+  ],
+  "author": "Eduardo Russo <russo@fabapp.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moblets/moblets/issues"
+  },
+  "homepage": "https://github.com/moblets/moblets#readme",
+  "dependencies": {
+    "cli": "^0.11.2"
+  }
+}
